@@ -1,0 +1,16 @@
+---
+object: set
+id: 985eab7d-655a-4cb0-ba74-d48c8dcfb3d4
+code: chr
+tcgplayer_id: 22
+name: Chronicles
+uri: https://api.scryfall.com/sets/985eab7d-655a-4cb0-ba74-d48c8dcfb3d4
+scryfall_uri: https://scryfall.com/sets/chr
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Achr&unique=prints
+released_at: '1995-07-01'
+set_type: masters
+card_count: 125
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/chr.svg?1694404800

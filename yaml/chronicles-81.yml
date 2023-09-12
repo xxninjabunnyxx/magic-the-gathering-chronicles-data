@@ -1,0 +1,116 @@
+---
+object: card
+id: 05362cde-3b0b-4a8d-9875-675cfac52e4a
+oracle_id: e26bf6a9-b31c-4bc0-b55b-c01f2f69be6b
+multiverse_ids:
+- 2876
+tcgplayer_id: 3421
+cardmarket_id: 7703
+name: Nicol Bolas
+lang: en
+released_at: '1995-07-01'
+uri: https://api.scryfall.com/cards/05362cde-3b0b-4a8d-9875-675cfac52e4a
+scryfall_uri: https://scryfall.com/card/chr/81/nicol-bolas?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/5/05362cde-3b0b-4a8d-9875-675cfac52e4a.jpg?1562895985
+  normal: https://cards.scryfall.io/normal/front/0/5/05362cde-3b0b-4a8d-9875-675cfac52e4a.jpg?1562895985
+  large: https://cards.scryfall.io/large/front/0/5/05362cde-3b0b-4a8d-9875-675cfac52e4a.jpg?1562895985
+  png: https://cards.scryfall.io/png/front/0/5/05362cde-3b0b-4a8d-9875-675cfac52e4a.png?1562895985
+  art_crop: https://cards.scryfall.io/art_crop/front/0/5/05362cde-3b0b-4a8d-9875-675cfac52e4a.jpg?1562895985
+  border_crop: https://cards.scryfall.io/border_crop/front/0/5/05362cde-3b0b-4a8d-9875-675cfac52e4a.jpg?1562895985
+mana_cost: "{2}{U}{U}{B}{B}{R}{R}"
+cmc: 8.0
+type_line: Legendary Creature — Elder Dragon
+oracle_text: |-
+  Flying
+  At the beginning of your upkeep, sacrifice Nicol Bolas unless you pay {U}{B}{R}.
+  Whenever Nicol Bolas deals damage to an opponent, that player discards their hand.
+power: '7'
+toughness: '7'
+colors:
+- B
+- R
+- U
+color_identity:
+- B
+- R
+- U
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 985eab7d-655a-4cb0-ba74-d48c8dcfb3d4
+set: chr
+set_name: Chronicles
+set_type: masters
+set_uri: https://api.scryfall.com/sets/985eab7d-655a-4cb0-ba74-d48c8dcfb3d4
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Achr&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/chr?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/05362cde-3b0b-4a8d-9875-675cfac52e4a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae26bf6a9-b31c-4bc0-b55b-c01f2f69be6b&unique=prints
+collector_number: '81'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Edward P. Beard, Jr.
+artist_ids:
+- b845b8ee-aeea-4822-bcf9-7230625ac95c
+illustration_id: 8e6baed3-3534-4c54-8fde-3f8c9bde0027
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 7739
+penny_rank: 8375
+prices:
+  usd: '2.95'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.39'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2876
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Nicol+Bolas&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Nicol+Bolas&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Nicol+Bolas
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/3421?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nicol+Bolas&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nicol+Bolas&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
